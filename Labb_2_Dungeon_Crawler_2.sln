@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb_2_Dungeon_Crawler_2", "Labb_2_Dungeon_Crawler_2\Labb_2_Dungeon_Crawler_2.csproj", "{AE9D77A1-ACD2-4AA9-99CC-C413B12E1686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE9D77A1-ACD2-4AA9-99CC-C413B12E1686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9D77A1-ACD2-4AA9-99CC-C413B12E1686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9D77A1-ACD2-4AA9-99CC-C413B12E1686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9D77A1-ACD2-4AA9-99CC-C413B12E1686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41BD4C29-6FD7-4503-8229-BFE40EF7D26B}
+	EndGlobalSection
+EndGlobal
